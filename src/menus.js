@@ -164,7 +164,7 @@ const MENU_MALDADE = `*_Bot Carluz_ 😈 _Comandos Malvados_*
 
 _Atenção: todos os comandos abaixo são apenas para admins!_
 
-🔫 */roletarussa*
+🔫 */russa*
 - Conta regressiva dramática e remove um membro aleatório do grupo (sem admins)
 
 💣 */bomba* [minutos]
