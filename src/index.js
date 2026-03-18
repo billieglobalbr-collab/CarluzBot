@@ -650,7 +650,7 @@ async function handleMsg(sock, msg) {
     // ══════════════════════════════════════
 
     // ─── /roletarussa ───
-    if (body === '/roletarussa') {
+    if (body === '/russa') {
       if (!adm) return semPerm();
       const membros = await getMembrosNaoAdmin(sock, from);
       if (membros.length < 2) return reply('Poucos membros para jogar!');
